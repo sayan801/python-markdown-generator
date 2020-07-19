@@ -1,1 +1,1 @@
-release: python3 test.py 
+release: python3 test.py
