@@ -1,4 +1,7 @@
 # Editorthings
+*.pyc
+.idea/
+env/
 .vscode/
 .vs/
 # Byte-compiled / optimized / DLL files
