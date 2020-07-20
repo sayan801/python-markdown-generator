@@ -1,1 +1,3 @@
-git+https://github.com/Nicceboy/python-markdown-generator
+django
+gunicorn
+django-heroku

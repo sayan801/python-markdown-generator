@@ -1,1 +1,1 @@
-release: python3 test.py
+web: gunicorn gettingstarted.wsgi --log-file -
